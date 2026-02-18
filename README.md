@@ -12,5 +12,16 @@ This project analyzes bikeshare usage data from major US cities. Using Python, t
    ```
 4. Follow the interactive prompts to choose a city.
 
+## Project Structure
+
+*   `bikeshare.py` – main analysis script
+*   `.csv` data files – excluded from the repository using `.gitignore`
+*   `README.md` – project documentation
+
+## Requirements
+
+*   Python 3
+*   Pandas and NumPy (depending on your implementation)
+
 ## Date Created
 **February 2026**
