@@ -1,27 +1,16 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Data Analysis
 
+This project analyzes bikeshare usage data from major US cities. Using Python, the program loads data from CSV files and calculates statistics such as travel times, user demographics, and popular stations.
 
-# Project Title
+## How to Use
 
-Describe what your project is about and what it does
+1. Ensure you have Python 3 installed.
+2. Place the bikeshare.py file and the data files in the project directory.
+3. Run the program from the terminal:
+   ```
+   python bikeshare.py
+   ```
+4. Follow the interactive prompts to choose a city.
 
-## Information about how to use your project
-
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
-
-## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
-
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## Date created
-
-Include the date you created this project and README file.
+## Date Created
+**February 2026**
