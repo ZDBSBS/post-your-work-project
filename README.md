@@ -23,5 +23,21 @@ This project analyzes bikeshare usage data from major US cities. Using Python, t
 *   Python 3
 *   Pandas and NumPy (depending on your implementation)
 
+## Contribution guidelines
+
+Contributions are welcome!  
+If you would like to improve the code or documentation:
+1. Create a new branch with a descriptive name.
+2. Make focused, small commits with clear messages.
+3. Push your branch and open a pull request in your forked repository.
+4. Ensure your changes follow good coding and documentation practices.
+
+## Credits
+
+This project is inspired by:
+
+*   The Udacity **Bikeshare Project**
+*   Various online tutorials and documentation resources used during development
+
 ## Date Created
 **February 2026**
